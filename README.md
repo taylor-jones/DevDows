@@ -1,7 +1,7 @@
 # DevDows
 
 ##### Unofficial Windows desktop version of [DevDocs](http://devdocs.io) using Electron
-##### Inspired by [DevDogs](https://github.com/ragingwind/devdogs) - this is a version for Windows
+##### Inspired by [DevDogs](https://github.com/ragingwind/devdogs) (for OS X) - I decided to make a version for Windows.
 
 ##### I have no affiliation with DevDocs. I just really like using it.
 
