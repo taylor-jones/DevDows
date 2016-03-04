@@ -5,4 +5,4 @@
 
 #### I have no affiliation with DevDocs.
 
-## To use, just download and run the .exe.
+## To use, just download, extract (and place the extracted folder wherever you want), and run the .exe.
